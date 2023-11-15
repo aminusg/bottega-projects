@@ -1,0 +1,39 @@
+.first-box {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin:30px 50px;
+}
+.first-box > .c-izda {
+    width: 50%;
+    height: auto;
+}
+.first-box > .c-izda  > .titulo {
+    display: flex;
+    align-items: center;
+}
+.titulo h1 {
+    margin-left: 10px;
+}
+.titulo p {
+    margin-bottom: 20px;
+}
+.first-box > .imagenhead {
+    margin: 30px 0;
+    height: auto;
+}
+.first-box > .c-izda >.signup  a {
+    margin: 20px 0;
+}
+.ads-space {
+    background-color: #252830;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 40px 0px 20px;
+    padding: 0 15px;
+}
+.ads-space > img:nth-child(1) {
+    margin-right: 20px;
+    }

@@ -1,0 +1,77 @@
+h1, h2, h3, h4 {
+    font-family: Roboto;
+    color: white;
+}
+p {
+    color: #c7c9d3;
+    font-family: Montserrat;
+    font-size:medium;
+    font-weight: 200;
+}
+body {
+    background-color: #131417;
+    margin: 0px;
+}
+.green-button {
+    background-color: #47cf73;
+    font-family: Montserrat;
+    font-size: 1rem;
+    text-shadow: none;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    font-weight: 400;
+    cursor: pointer;
+    color: #131417;
+    padding: 7px 3px;
+    margin-right: 8px;
+    border-radius: 5px;
+}
+.green-button:hover {
+    background-color: #248c46;
+    font-family: Montserrat;
+    font-size: 1rem;
+    text-shadow: none;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    font-weight: 400;
+    cursor: pointer;
+    color: white;
+    padding: 7px 3px;
+    margin-right: 8px;
+    border-radius: 5px;
+}
+
+.darkgrey-button {
+    background-color: #444857;
+    font-family: Montserrat;
+    font-size: 1rem;
+    text-shadow: none;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    font-weight: 400;
+    cursor: pointer;
+    color: white;
+    padding: 7px 3px;
+    border-radius: 5px;
+}
+.darkgrey-button:hover {
+    background-color: #5a5f73;
+    font-family: Montserrat;
+    font-size: 1rem;
+    text-shadow: none;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    font-weight: 400;
+    cursor: pointer;
+    color: white;
+    padding: 7px 3px;
+    border-radius: 5px;
+}

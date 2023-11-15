@@ -1,0 +1,24 @@
+footer {
+    background-color: #010101;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-lines > nav {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 50px;
+}
+nav > a {
+    color: #C7C9D3;
+    text-decoration: none;
+    font-family: Montserrat;
+    font-weight: 300;
+    margin:0 10px;
+}
+.modulo_copyright {
+    display: block;
+    justify-content: right;
+    margin-right: 50px;
+    text-align: right;
+}

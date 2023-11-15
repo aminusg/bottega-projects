@@ -1,0 +1,32 @@
+.navbar-htal {
+    height: 56px;
+    margin:10px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.search-log {
+    display: flex;
+    justify-content: flex-start;
+    background-color: #252830;
+    font-size: smaller;
+    height: 38px;
+    width: 1200px;
+    text-align: left;
+    border-radius: 5px;
+    align-items: center;
+}
+.search-log > .search input {
+    color: #595e6c;
+    text-align: left;
+    background-color: transparent;
+    border: none;
+}
+.search .fa-solid {
+    height: 15px;
+    width: 15px;
+    margin-right: 10px;
+}
+.green-button {
+    margin: 10px;
+}
