@@ -1,0 +1,26 @@
+.navbar {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.bilineas p {
+    color: #ffdd40;
+    margin-bottom: 0px;
+}
+.menu > .ps {
+    color: white;
+    font-family: Montserrat;
+    font-size:medium;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 0 10px;
+}
+.menu > .ps:hover {
+    color: #76d4fa;
+    font-family: Montserrat;
+    font-size:medium;
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 10px;
+}

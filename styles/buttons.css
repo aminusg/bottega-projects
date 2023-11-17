@@ -1,0 +1,192 @@
+.green-button {
+    background-color: #47cf73;
+    font-family: roboto;
+    font-size: 1.2rem;
+    text-shadow: none;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    font-weight: 400;
+    cursor: pointer;
+    color: #131417;
+    padding: 10px 12px;
+    margin-right: 8px;
+    border-radius: 5px;
+}
+.green-button:hover {
+    background-color: #248c46;
+    font-family: roboto;
+    font-size: 1.2rem;
+    text-shadow: none;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    font-weight: 400;
+    cursor: pointer;
+    color: white;
+    padding: 10px 12px;
+    margin-right: 8px;
+    border-radius: 5px;
+}
+
+.darkgrey-button {
+    background-color: #444857;
+    font-family: Montserrat;
+    font-size: 1rem;
+    text-shadow: none;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    font-weight: 400;
+    cursor: pointer;
+    color: white;
+    padding: 7px 10px;
+    border-radius: 5px;
+}
+.darkgrey-button:hover {
+    background-color: #5a5f73;
+    font-family: Montserrat;
+    font-size: 1rem;
+    text-shadow: none;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    font-weight: 400;
+    cursor: pointer;
+    color: white;
+    padding: 7px 10px;
+    border-radius: 5px;
+}
+.black-button {
+    background-color: #000208;
+    font-family: roboto;
+    font-size: 1.2rem;
+    text-shadow: none;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    font-weight: 400;
+    cursor: pointer;
+    color: white;
+    padding: 10px 12px;
+    border-radius: 5px;
+}
+.black-button:hover {
+    background-color: #1a9fd4;
+    font-family: roboto;
+    font-size: 1.2rem;
+    text-shadow: none;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    font-weight: 400;
+    cursor: pointer;
+    color: rgb(9, 9, 9);
+    padding: 10px 12px;
+    border-radius: 5px;
+}
+    /* botón dropdown */
+    .dropdown {
+        position: relative;
+        display: inline-block;
+      }
+  
+      .dropbtn {
+        padding: 10px;
+        background-color: #040404;
+        font-family: Montserrat;
+        font-size: 1rem;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+  
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+      }
+  
+      .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        font-family: Montserrat;
+        display: block;
+      }
+  
+      .dropdown-content a:hover {
+        background-color: #f1f1f1;
+      }
+  
+      /* Flecha hacia abajo en el botón */
+      .dropbtn::after {
+        content: "\25BC"; /* Código Unicode para la flecha hacia abajo */
+        font-size: 14px;
+        margin-left: 8px;
+      }
+  
+      /* Mostrar el dropdown al hacer hover sobre el botón */
+      .dropdown:hover .dropdown-content {
+        display: block;
+      }
+      .dropdown2 {
+        position: relative;
+        display: inline-block;
+        margin-left: 250px;
+      }
+  
+      .dropbtn2 {
+        padding: 10px;
+        background-color: #444857;
+        font-family: Montserrat;
+        font-size: 1rem;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+  
+      .dropdown-content2 {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+      }
+  
+      .dropdown-content2 a {
+        color: #444857;
+        padding: 12px 16px;
+        text-decoration: none;
+        font-family: Montserrat;
+        display: block;
+      }
+  
+      .dropdown-content2 a:hover {
+        background-color: #f1f1f1;
+      }
+  
+      /* Flecha hacia abajo en el botón */
+      .dropbtn2::after {
+        content: "\25BC"; /* Código Unicode para la flecha hacia abajo */
+        font-size: 14px;
+        margin-left: 8px;
+        color:#47cf73;
+      }
+  
+      /* Mostrar el dropdown al hacer hover sobre el botón */
+      .dropdown2:hover .dropdown-content2 {
+        display: block;
+      }  
