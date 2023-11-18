@@ -1,9 +1,9 @@
 .green-button {
     background-color: #47cf73;
     font-family: roboto;
-    font-size: 1.2rem;
+    font-size: 1.6rem;
     text-shadow: none;
-    line-height: 1.2;
+    line-height: 1.6;
     white-space: nowrap;
     text-overflow: ellipsis;
     text-decoration: none;
@@ -17,9 +17,9 @@
 .green-button:hover {
     background-color: #248c46;
     font-family: roboto;
-    font-size: 1.2rem;
+    font-size: 1.6rem;
     text-shadow: none;
-    line-height: 1.2;
+    line-height: 1.6;
     white-space: nowrap;
     text-overflow: ellipsis;
     text-decoration: none;
@@ -64,9 +64,9 @@
 .black-button {
     background-color: #000208;
     font-family: roboto;
-    font-size: 1.2rem;
+    font-size: 1.6rem;
     text-shadow: none;
-    line-height: 1.2;
+    line-height: 1.6;
     white-space: nowrap;
     text-overflow: ellipsis;
     text-decoration: none;
@@ -79,9 +79,9 @@
 .black-button:hover {
     background-color: #1a9fd4;
     font-family: roboto;
-    font-size: 1.2rem;
+    font-size: 1.6rem;
     text-shadow: none;
-    line-height: 1.2;
+    line-height: 1.6;
     white-space: nowrap;
     text-overflow: ellipsis;
     text-decoration: none;

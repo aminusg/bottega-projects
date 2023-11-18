@@ -4,19 +4,35 @@
     justify-content: space-around;
     align-items: center;
 }
+.navbar i {
+    color: #c7c9d3;
+}
 .bilineas p {
     color: #ffdd40;
     margin-bottom: 0px;
 }
-.menu > .ps {
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 450px;
+}
+.menu > .subm {
+    width: 70px;
+}
+.menu > .subm > .ps {
     color: white;
     font-family: Montserrat;
     font-size:medium;
     font-weight: 500;
     text-decoration: none;
     margin-right: 0 10px;
+    width: 55px;
 }
-.menu > .ps:hover {
+/* .menu > .subm {
+    width: 50px;
+} */
+.menu > .subm > .ps:hover {
     color: #76d4fa;
     font-family: Montserrat;
     font-size:medium;
